@@ -1,0 +1,24 @@
+Matthew Cebenka Self-Study Questions:
+
+1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+HTML stands for hypertext markup language. It is markup used to organize, label
+and divide content on your page into discreet chunks.
+
+2 .Name two big differences between display: block; and display: inline.
+
+Inline blocks are very similar to regular inline elements but they can have a
+width and a height. This means that with inline blocks you can alter the borders
+and margins, with a regular inline element you cannot.
+
+3. What are the 4 areas of the box model?
+
+Margin, Border, Padding, Content
+
+4 .While using flexbox, what axis does the following property work on: align-items: center?
+
+The y axis or cross axis.
+
+5. Explain why git is valuable to a team of developers.
+
+Git is a version control system used to track and save project iterations.
